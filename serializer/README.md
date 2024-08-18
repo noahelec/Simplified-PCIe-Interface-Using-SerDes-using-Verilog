@@ -46,7 +46,7 @@ A SystemVerilog testbench is provided to validate the functionality of the Seria
 
 ### Running the Testbench
 To run the testbench:
-1. Load the `Serializer.sv` and `Serializer_tb.sv` files into your SystemVerilog simulator (e.g., ModelSim, QuestaSim).
+1. Load the `Serializer.sv` and `tb_Serializer.sv` files into your SystemVerilog simulator (e.g., ModelSim, QuestaSim).
 2. Compile the files.
 3. Run the simulation and observe the output to verify that the serial data output matches the expected bitstream for each test case.
 
