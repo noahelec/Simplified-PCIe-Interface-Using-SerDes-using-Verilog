@@ -50,9 +50,5 @@ To run the testbench:
 2. Compile the files.
 3. Run the simulation and observe the output to verify that the serial data output matches the expected bitstream for each test case.
 
-### Expected Output
-The expected output of the testbench includes the correct serialization of the input data, with the serial output matching the MSB-first bitstream of the input parallel data.
 
-## Example Output
-Here is an example of what you might see in the simulation output:
 
