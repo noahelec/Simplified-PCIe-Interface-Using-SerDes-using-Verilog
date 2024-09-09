@@ -24,9 +24,6 @@ The project is organized into the following key modules:
 - **Data Link Layer**: Adds reliability through flow control, CRC error detection, and manages communication between the Transaction and Physical Layers.
 - **Physical Layer (SerDes Interface)**: Implements the SerDes functionality, handling serialization/deserialization and interfacing with the Data Link Layer.
 
-### Intended Audience:
-This project is ideal for students, hobbyists, and professionals looking to deepen their understanding of high-speed data communication systems, especially PCIe interfaces. It provides a hands-on approach to learning and implementing key concepts in digital design, serialization, and communication protocols.
-
 ### How to Use:
 - **Clone the Repository**: Download the project files to your local machine.
 - **Explore the Modules**: Each module is self-contained, with a corresponding testbench to validate its functionality.
